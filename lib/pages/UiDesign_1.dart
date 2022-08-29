@@ -36,7 +36,7 @@ class _UiDesign1State extends State<UiDesign1> {
                 Text("Ocean"),
                 Text("Nature"),
                 Text("Space"),
-                Text("Sky"),
+                Text("Cielo"),
                 Text("Selva")
               ],
             ),
