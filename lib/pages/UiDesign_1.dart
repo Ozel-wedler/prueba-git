@@ -37,7 +37,7 @@ class _UiDesign1State extends State<UiDesign1> {
                 Text("Nature"),
                 Text("Space"),
                 Text("Sky"),
-                Text("Forest")
+                Text("Selva")
               ],
             ),
             SizedBox(
